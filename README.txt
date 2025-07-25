@@ -58,11 +58,6 @@ Additional calculated columns like `IsCentury` and `IsFifty` were derived using 
 - Dataset is either custom-made or publicly sourced
 - Inspired by India's legendary batsman — Virat Kohli
 
-🔗 Connect
-
-- LinkedIn: [Your LinkedIn Profile]
-- Portfolio: [Your Portfolio Link]
-- GitHub: [Your GitHub Username]
 
 
 
